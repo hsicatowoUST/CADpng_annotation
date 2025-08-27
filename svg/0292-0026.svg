@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg style="background-color: #000;" version="1.1" viewBox="0 0 100.0 100.0" xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape">
+ <g id="layerColumn【柱】" inkscape:groupmode="layer" inkscape:label="Column【柱】">
+  <path d="M 75.99996099999998,34.875 L 65.99996099999998,34.875" fill="none" stroke="rgb(178,0,178)" stroke-width="0.1"/>
+  <path d="M 65.99996099999998,34.875 L 65.99996099999998,42.875" fill="none" stroke="rgb(178,0,178)" stroke-width="0.1"/>
+  <path d="M 65.99996099999998,42.875 L 75.99996099999998,42.875" fill="none" stroke="rgb(178,0,178)" stroke-width="0.1"/>
+  <path d="M 75.99996099999998,42.875 L 75.99996099999998,34.875" fill="none" stroke="rgb(178,0,178)" stroke-width="0.1"/>
+ </g>
+ <g id="layerDote【轴线】" inkscape:groupmode="layer" inkscape:label="Dote【轴线】">
+  <path d="M 0.0,38.875 L 100.0,38.875" fill="none" stroke="rgb(53,107,107)" stroke-width="0.1"/>
+  <path d="M 71.99996099999998,100.0 L 71.99996099999998,0.0" fill="none" stroke="rgb(53,107,107)" stroke-width="0.1"/>
+ </g>
+ <g id="layerFire_RS【防火卷帘】" inkscape:groupmode="layer" inkscape:label="Fire_RS【防火卷帘】">
+  <path d="M 75.99996099999998,40.875 L 100.0,40.875" fill="none" stroke="rgb(255,12,12)" stroke-width="0.1"/>
+  <path d="M 75.99996099999998,36.875 L 100.0,36.875" fill="none" stroke="rgb(255,12,12)" stroke-width="0.1"/>
+ </g>
+ <g id="layerFire_text【防火分区文字标注】" inkscape:groupmode="layer" inkscape:label="Fire_text【防火分区文字标注】">
+  <path d="M 100.0,79.11300000000006 L 4.093960999999979,79.11300000000006" fill="none" stroke="rgb(73,12,255)" stroke-width="0.1"/>
+  <path d="M 4.093960999999979,79.11300000000006 L 4.093960999999979,100.0" fill="none" stroke="rgb(73,12,255)" stroke-width="0.1"/>
+  <text fill="rgb(73,12,255)" font-family="Noto Sans CJK SC" font-size="2" transform="rotate(-0.0,6.837961000000007,92.27499999999998)" x="6.837961000000007" y="92.27499999999998">
+   防火分区B1-13
+  </text>
+ </g>
+ <g id="layerHatch_column【柱填充】" inkscape:groupmode="layer" inkscape:label="Hatch_column【柱填充】">
+  <path d="M 65.99996099999998,34.875 L 65.99996099999998,42.875" fill="none" stroke="rgb(89,89,89)" stroke-width="0.1"/>
+  <path d="M 65.99996099999998,42.875 L 75.99996099999998,42.875" fill="none" stroke="rgb(89,89,89)" stroke-width="0.1"/>
+  <path d="M 75.99996099999998,42.875 L 75.99996099999998,34.875" fill="none" stroke="rgb(89,89,89)" stroke-width="0.1"/>
+  <path d="M 75.99996099999998,34.875 L 65.99996099999998,34.875" fill="none" stroke="rgb(89,89,89)" stroke-width="0.1"/>
+ </g>
+ <g id="layerWall【砖墙】" inkscape:groupmode="layer" inkscape:label="Wall【砖墙】">
+  <path d="M 67.99996099999998,42.875 L 67.99996099999998,49.875" fill="none" instance-id="-1" semantic-id="1" stroke="rgb(178,178,0)" stroke-width="0.1"/>
+  <path d="M 65.99996099999998,42.875 L 65.99996099999998,47.875" fill="none" instance-id="-1" semantic-id="1" stroke="rgb(178,178,0)" stroke-width="0.1"/>
+  <path d="M 67.99996099999998,42.875 L 65.99996099999998,42.875" fill="none" instance-id="-1" semantic-id="1" stroke="rgb(178,178,0)" stroke-width="0.1"/>
+  <path d="M 0.0,47.87543421026976 L 65.99996099999998,47.875" fill="none" instance-id="-1" semantic-id="1" stroke="rgb(178,178,0)" stroke-width="0.1"/>
+  <path d="M 0.0,49.87543589718587 L 67.99996099999998,49.875" fill="none" instance-id="-1" semantic-id="1" stroke="rgb(178,178,0)" stroke-width="0.1"/>
+ </g>
+ <g id="layerWindow_fire【防火门窗及编号】" inkscape:groupmode="layer" inkscape:label="Window_fire【防火门窗及编号】">
+  <text fill="rgb(178,0,0)" font-family="Noto Sans CJK SC" font-size="2" transform="rotate(-0.0,90.64996099999996,34.011999999999944)" x="90.64996099999996" y="34.011999999999944">
+   FHJL-3.0h
+  </text>
+ </g>
+</svg>

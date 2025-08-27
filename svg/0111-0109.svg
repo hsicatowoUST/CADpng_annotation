@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg style="background-color: #000;" version="1.1" viewBox="0 0 100.0 100.0" xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape">
+ <g id="layerA-AXIS" inkscape:groupmode="layer" inkscape:label="A-AXIS">
+  <path d="M 67.9724255000001,66.27865100000008 L 67.9724255000001,100.0" fill="none" stroke="rgb(0,178,0)" stroke-width="0.1"/>
+  <path d="M 67.9724255000001,56.27865100000008 L 67.9724255000001,100.0" fill="none" stroke="rgb(0,178,0)" stroke-width="0.1"/>
+  <path d="M 67.9724255000001,72.27865100000008 L 67.9724255000001,100.0" fill="none" stroke="rgb(0,178,0)" stroke-width="0.1"/>
+  <text fill="rgb(0,178,0)" font-family="Noto Sans CJK SC" font-size="2" transform="rotate(-0.0,14.9724255000001,97.7586510000001)" x="14.9724255000001" y="97.7586510000001">
+   9000
+  </text>
+ </g>
+ <g id="layerA-DOTE" inkscape:groupmode="layer" inkscape:label="A-DOTE">
+  <path d="M 67.9724255000001,66.27865100000008 L 67.9724255000001,0.0" fill="none" stroke="rgb(107,53,53)" stroke-width="0.1"/>
+  <path d="M 0.0,9.298651000000064 L 100.0,9.298651000000064" fill="none" stroke="rgb(107,53,53)" stroke-width="0.1"/>
+ </g>
+ <g id="layerA-WALL-CURT-GLAZ" inkscape:groupmode="layer" inkscape:label="A-WALL-CURT-GLAZ">
+  <path d="M 100.0,11.298651000000064 L 0.0,11.298651000000064" fill="none" instance-id="-1" semantic-id="2" stroke="rgb(255,133,12)" stroke-width="0.1"/>
+  <path d="M 100.0,12.298651000000064 L 0.0,12.298651000000064" fill="none" instance-id="-1" semantic-id="2" stroke="rgb(255,133,12)" stroke-width="0.1"/>
+  <path d="M 100.0,10.298651000000064 L 0.0,10.298651000000064" fill="none" instance-id="-1" semantic-id="2" stroke="rgb(255,133,12)" stroke-width="0.1"/>
+ </g>
+ <g id="layerA-玻璃雨蓬" inkscape:groupmode="layer" inkscape:label="A-玻璃雨蓬">
+  <path d="M 0.0,30.298651000000064 L 100.0,30.298651000000064" fill="none" stroke="rgb(0,178,0)" stroke-width="0.1"/>
+  <path d="M 100.0,12.298651000000064 L 0.0,12.298651000000064" fill="none" stroke="rgb(0,178,0)" stroke-width="0.1"/>
+  <path d="M 100.0,12.298651000000064 L 0.0,12.298651000000064" fill="none" stroke="rgb(0,0,0)" stroke-width="0.1"/>
+  <path d="M 0.0,30.298651000000064 L 100.0,30.298651000000064" fill="none" stroke="rgb(0,0,0)" stroke-width="0.1"/>
+ </g>
+</svg>

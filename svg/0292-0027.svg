@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg style="background-color: #000;" version="1.1" viewBox="0 0 100.0 100.0" xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape">
+ <g id="layerColumn【柱】" inkscape:groupmode="layer" inkscape:label="Column【柱】">
+  <path d="M 37.999960999999985,42.875 L 27.999960999999985,42.875" fill="none" stroke="rgb(178,0,178)" stroke-width="0.1"/>
+  <path d="M 27.999960999999985,42.875 L 27.999960999999985,50.875" fill="none" stroke="rgb(178,0,178)" stroke-width="0.1"/>
+  <path d="M 27.999960999999985,50.875 L 37.999960999999985,50.875" fill="none" stroke="rgb(178,0,178)" stroke-width="0.1"/>
+  <path d="M 37.999960999999985,50.875 L 37.999960999999985,42.875" fill="none" stroke="rgb(178,0,178)" stroke-width="0.1"/>
+ </g>
+ <g id="layerDote【轴线】" inkscape:groupmode="layer" inkscape:label="Dote【轴线】">
+  <path d="M 0.0,46.875 L 100.0,46.875" fill="none" stroke="rgb(53,107,107)" stroke-width="0.1"/>
+  <path d="M 51.999960999999985,100.0 L 51.999960999999985,0.0" fill="none" stroke="rgb(53,107,107)" stroke-width="0.1"/>
+ </g>
+ <g id="layerFire_RS【防火卷帘】" inkscape:groupmode="layer" inkscape:label="Fire_RS【防火卷帘】">
+  <path d="M 0.0,48.875 L 27.999960999999985,48.875" fill="none" stroke="rgb(255,12,12)" stroke-width="0.1"/>
+  <path d="M 0.0,44.875 L 27.999960999999985,44.875" fill="none" stroke="rgb(255,12,12)" stroke-width="0.1"/>
+ </g>
+ <g id="layerPri_text【私人文字标注】" inkscape:groupmode="layer" inkscape:label="Pri_text【私人文字标注】">
+  <path d="M 9.35596099999998,45.525000000000006 L 9.35596099999998,62.875" fill="none" stroke="rgb(178,88,0)" stroke-width="0.1"/>
+  <path d="M 9.35596099999998,62.875 L 35.76996099999997,62.875" fill="none" stroke="rgb(178,88,0)" stroke-width="0.1"/>
+  <path d="M 9.35596099999998,45.224999999999994 A 0.30000000000000426,0.30000000000000426 0.0 1,0 9.35596099999998,45.825" fill="none" stroke="rgb(178,88,0)" stroke-width="0.1"/>
+  <path d="M 9.35596099999998,45.825 A 0.30000000000000426,0.30000000000000426 0.0 1,0 9.35596099999998,45.224999999999994" fill="none" stroke="rgb(178,88,0)" stroke-width="0.1"/>
+  <text fill="rgb(0,0,0)" font-family="Noto Sans CJK SC" font-size="2" transform="rotate(-0.0,10.930960999999968,61.3)" x="10.930960999999968" y="61.3">
+   洞口高度5000
+  </text>
+ </g>
+ <g id="layerWall【砖墙】" inkscape:groupmode="layer" inkscape:label="Wall【砖墙】">
+  <path d="M 27.999960999999985,45.875 L 100.0,45.875" fill="none" instance-id="-1" semantic-id="1" stroke="rgb(178,178,0)" stroke-width="0.1"/>
+  <path d="M 27.999960999999985,47.875 L 100.0,47.875" fill="none" instance-id="-1" semantic-id="1" stroke="rgb(178,178,0)" stroke-width="0.1"/>
+  <path d="M 27.999960999999985,45.875 L 27.999960999999985,47.875" fill="none" instance-id="-1" semantic-id="1" stroke="rgb(178,178,0)" stroke-width="0.1"/>
+ </g>
+</svg>

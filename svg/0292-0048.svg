@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg style="background-color: #000;" version="1.1" viewBox="0 0 100.0 100.0" xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape">
+ <g id="layerAXIS_TEXT" inkscape:groupmode="layer" inkscape:label="AXIS_TEXT">
+  <text fill="rgb(0,0,0)" font-family="Noto Sans CJK SC" font-size="2" transform="rotate(-0.0,74.45696099999998,80.13)" x="74.45696099999998" y="80.13">
+   33
+  </text>
+ </g>
+ <g id="layerAxis【轴线号】" inkscape:groupmode="layer" inkscape:label="Axis【轴线号】">
+  <path d="M 99.24996099999998,43.875 L 100.0,43.875" fill="none" stroke="rgb(0,178,0)" stroke-width="0.1"/>
+  <path d="M 83.99996099999998,35.16500000000002 L 83.99996099999998,71.875" fill="none" stroke="rgb(0,178,0)" stroke-width="0.1"/>
+  <path d="M 82.24296100000004,73.632 L 83.99996099999998,71.875" fill="none" stroke="rgb(0,178,0)" stroke-width="0.1"/>
+  <circle cx="77.99996099999998" cy="77.875" fill="none" r="6" stroke="rgb(0,178,0)" stroke-width="0.1"/>
+ </g>
+ <g id="layerBoundary_line【地下室边界线】" inkscape:groupmode="layer" inkscape:label="Boundary_line【地下室边界线】">
+  <path d="M 87.99996099999998,100.0 L 87.99996099999998,0.0" fill="none" stroke="rgb(254,255,12)" stroke-width="0.1"/>
+ </g>
+ <g id="layerColumn【柱】" inkscape:groupmode="layer" inkscape:label="Column【柱】">
+  <path d="M 35.999960999999985,40.875 L 41.999960999999985,40.875" fill="none" stroke="rgb(178,0,178)" stroke-width="0.1"/>
+  <path d="M 41.999960999999985,40.875 L 41.999960999999985,46.875" fill="none" stroke="rgb(178,0,178)" stroke-width="0.1"/>
+  <path d="M 41.999960999999985,46.875 L 35.999960999999985,46.875" fill="none" stroke="rgb(178,0,178)" stroke-width="0.1"/>
+  <path d="M 35.999960999999985,46.875 L 35.999960999999985,40.875" fill="none" stroke="rgb(178,0,178)" stroke-width="0.1"/>
+  <path d="M 81.99996099999998,39.875 L 81.99996099999998,47.875" fill="none" stroke="rgb(178,0,178)" stroke-width="0.1"/>
+  <path d="M 81.99996099999998,47.875 L 87.99996099999998,47.875" fill="none" stroke="rgb(178,0,178)" stroke-width="0.1"/>
+  <path d="M 87.99996099999998,47.875 L 87.99996099999998,39.875" fill="none" stroke="rgb(178,0,178)" stroke-width="0.1"/>
+  <path d="M 87.99996099999998,39.875 L 81.99996099999998,39.875" fill="none" stroke="rgb(178,0,178)" stroke-width="0.1"/>
+ </g>
+ <g id="layerCon_wall【混凝土墙】" inkscape:groupmode="layer" inkscape:label="Con_wall【混凝土墙】">
+  <path d="M 87.99996099999998,0.0 L 87.99996099999998,100.0" fill="none" instance-id="-1" semantic-id="1" stroke="rgb(178,0,178)" stroke-width="0.1"/>
+  <path d="M 81.99996099999998,0.0 L 81.99996099999998,100.0" fill="none" instance-id="-1" semantic-id="1" stroke="rgb(178,0,178)" stroke-width="0.1"/>
+ </g>
+ <g id="layerDote【轴线】" inkscape:groupmode="layer" inkscape:label="Dote【轴线】">
+  <path d="M 0.0,43.875 L 100.0,43.875" fill="none" stroke="rgb(53,107,107)" stroke-width="0.1"/>
+  <path d="M 83.99996099999998,100.0 L 83.99996099999998,0.0" fill="none" stroke="rgb(53,107,107)" stroke-width="0.1"/>
+ </g>
+ <g id="layerPUB_HATCH" inkscape:groupmode="layer" inkscape:label="PUB_HATCH">
+  <path d="M 87.99996099999998,100.0 L 87.99996099999998,0.0" fill="none" instance-id="-1" semantic-id="1" stroke="rgb(89,89,89)" stroke-width="0.1"/>
+  <path d="M 81.99996099999998,0.0 L 81.99996099999998,100.0" fill="none" instance-id="-1" semantic-id="1" stroke="rgb(89,89,89)" stroke-width="0.1"/>
+ </g>
+ <g id="layerWall【砖墙】" inkscape:groupmode="layer" inkscape:label="Wall【砖墙】">
+  <path d="M 41.999960999999985,0.0 L 41.999960999999985,100.0" fill="none" instance-id="-1" semantic-id="1" stroke="rgb(178,178,0)" stroke-width="0.1"/>
+  <path d="M 39.999960999999985,0.0 L 39.999960999999985,100.0" fill="none" instance-id="-1" semantic-id="1" stroke="rgb(178,178,0)" stroke-width="0.1"/>
+ </g>
+</svg>

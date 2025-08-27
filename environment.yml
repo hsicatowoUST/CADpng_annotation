@@ -1,0 +1,12 @@
+name: png_anno
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - lxml
+  - cairosvg
+  - pillow
+  - numpy
+  - scikit-image
+  - svgpathtools
+  - tqdm

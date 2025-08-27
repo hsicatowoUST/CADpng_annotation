@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg style="background-color: #000;" version="1.1" viewBox="0 0 100.0 100.0" xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape">
+ <g id="layerAXIS_TEXT" inkscape:groupmode="layer" inkscape:label="AXIS_TEXT">
+  <text fill="rgb(0,0,0)" font-family="Noto Sans CJK SC" font-size="2" transform="rotate(-0.0,22.373499999999922,67.644)" x="22.373499999999922" y="67.644">
+   1/AE
+  </text>
+  <text fill="rgb(0,0,0)" font-family="Noto Sans CJK SC" font-size="2" transform="rotate(-0.0,22.373499999999922,30.644000000000005)" x="22.373499999999922" y="30.644000000000005">
+   2/AE
+  </text>
+ </g>
+ <g id="layerAxis【轴线号】" inkscape:groupmode="layer" inkscape:label="Axis【轴线号】">
+  <path d="M 0.0,64.25 L 19.767499999999927,64.25" fill="none" stroke="rgb(0,178,0)" stroke-width="0.1"/>
+  <path d="M 0.0,27.25 L 19.767499999999927,27.25" fill="none" stroke="rgb(0,178,0)" stroke-width="0.1"/>
+  <circle cx="25.767499999999927" cy="64.25" fill="none" r="6" stroke="rgb(0,178,0)" stroke-width="0.1"/>
+  <circle cx="25.767499999999927" cy="27.25" fill="none" r="6" stroke="rgb(0,178,0)" stroke-width="0.1"/>
+ </g>
+ <g id="layerBoundary_line【地下室边界线】" inkscape:groupmode="layer" inkscape:label="Boundary_line【地下室边界线】">
+  <path d="M 79.76749999999993,100.0 L 79.76749999999993,0.0" fill="none" stroke="rgb(254,255,12)" stroke-width="0.1"/>
+ </g>
+ <g id="layerColumn【柱】" inkscape:groupmode="layer" inkscape:label="Column【柱】">
+  <path d="M 71.76749999999993,96.25 L 71.76749999999993,100.0" fill="none" stroke="rgb(178,0,178)" stroke-width="0.1"/>
+  <path d="M 79.76749999999993,100.0 L 79.76749999999993,96.25" fill="none" stroke="rgb(178,0,178)" stroke-width="0.1"/>
+  <path d="M 79.76749999999993,96.25 L 71.76749999999993,96.25" fill="none" stroke="rgb(178,0,178)" stroke-width="0.1"/>
+ </g>
+ <g id="layerCon_wall【混凝土墙】" inkscape:groupmode="layer" inkscape:label="Con_wall【混凝土墙】">
+  <path d="M 79.76749999999993,0.0 L 79.76749999999993,100.0" fill="none" instance-id="-1" semantic-id="1" stroke="rgb(178,0,178)" stroke-width="0.1"/>
+  <path d="M 73.76749999999993,0.0 L 73.76749999999993,100.0" fill="none" instance-id="-1" semantic-id="1" stroke="rgb(178,0,178)" stroke-width="0.1"/>
+ </g>
+ <g id="layerDim_elev【标高】" inkscape:groupmode="layer" inkscape:label="Dim_elev【标高】">
+  <path d="M 33.76749999999993,99.25 L 29.267499999999927,94.75" fill="none" stroke="rgb(0,178,0)" stroke-width="0.1"/>
+  <path d="M 33.76749999999993,99.25 L 38.26749999999993,94.75" fill="none" stroke="rgb(0,178,0)" stroke-width="0.1"/>
+  <path d="M 29.267499999999927,94.75 L 54.46749999999997,94.75" fill="none" stroke="rgb(0,178,0)" stroke-width="0.1"/>
+  <text fill="rgb(0,0,0)" font-family="Noto Sans CJK SC" font-size="2" transform="rotate(-0.0,38.56449999999995,93.17499999999995)" x="38.56449999999995" y="93.17499999999995">
+   -11.955
+  </text>
+ </g>
+ <g id="layerDote【轴线】" inkscape:groupmode="layer" inkscape:label="Dote【轴线】">
+  <path d="M 75.76749999999993,100.0 L 75.76749999999993,0.0" fill="none" stroke="rgb(53,107,107)" stroke-width="0.1"/>
+ </g>
+ <g id="layerPUB_HATCH" inkscape:groupmode="layer" inkscape:label="PUB_HATCH">
+  <path d="M 79.76749999999993,100.0 L 79.76749999999993,0.0" fill="none" instance-id="-1" semantic-id="1" stroke="rgb(89,89,89)" stroke-width="0.1"/>
+  <path d="M 73.76749999999993,0.0 L 73.76749999999993,100.0" fill="none" instance-id="-1" semantic-id="1" stroke="rgb(89,89,89)" stroke-width="0.1"/>
+ </g>
+ <g id="layerPub_text【公共文字标注】" inkscape:groupmode="layer" inkscape:label="Pub_text【公共文字标注】">
+  <text fill="rgb(0,0,0)" font-family="Noto Sans CJK SC" font-size="2" transform="rotate(-90.0,31.666499999999928,1.2090000000000032)" x="31.666499999999928" y="1.2090000000000032">
+   i=15%
+  </text>
+ </g>
+ <g id="layerStair【楼梯、电梯】" inkscape:groupmode="layer" inkscape:label="Stair【楼梯、电梯】">
+  <path d="M 33.76749999999993,99.25 L 33.76749999999993,0.0" fill="none" stroke="rgb(44,178,0)" stroke-width="0.1"/>
+ </g>
+ <g id="layerWall【砖墙】" inkscape:groupmode="layer" inkscape:label="Wall【砖墙】">
+  <path d="M 0.0,99.25 L 77.76749999999993,99.25" fill="none" instance-id="-1" semantic-id="1" stroke="rgb(178,178,0)" stroke-width="0.1"/>
+  <path d="M 77.76749999999993,99.25 L 77.76749999999993,100.0" fill="none" instance-id="-1" semantic-id="1" stroke="rgb(178,178,0)" stroke-width="0.1"/>
+ </g>
+</svg>
